@@ -90,6 +90,7 @@ Social backends
    khanacademy
    lastfm
    launchpad
+   line
    linkedin
    livejournal
    live
@@ -142,6 +143,7 @@ Social backends
    twitter
    uber
    untappd
+   upwork
    vend
    vimeo
    vk
